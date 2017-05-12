@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3d3939</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#1b5336</color>
+    <color name="bar">#d5d5d5</color>
+    <color name="apna">#d5d5d5</color>
+    <color name="hor">#00a221</color>
+    <color name="mo">#ffffff</color>
+    <color name="nwabar">#555555</color>
+</resources>
