@@ -52,7 +52,7 @@
                     android:layout_marginLeft="4dp"
                     android:layout_marginTop="15dp"
                     android:layout_weight="1"
-                    android:text="Home"
+                    android:text="H"
                     android:textColor="@android:color/background_light"
                     android:textSize="18sp" />
 
