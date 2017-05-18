@@ -133,5 +133,14 @@
             android:textColor="@android:color/background_light"
             android:textSize="18sp" />
 
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar25"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="115dp"
+            android:background="@color/apna"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="?attr/actionBarTheme" />
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
