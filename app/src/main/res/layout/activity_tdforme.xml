@@ -126,6 +126,7 @@
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="32dp"
+            android:layout_marginTop="10dp"
             android:background="@color/hor"
             android:text="continue"
             android:textColor="@android:color/background_light"
