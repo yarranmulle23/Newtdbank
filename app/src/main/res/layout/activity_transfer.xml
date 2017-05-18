@@ -10,20 +10,20 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginBottom="0dp"
+        android:layout_marginEnd="0dp"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="0dp"
+        android:layout_marginStart="0dp"
         android:layout_marginTop="0dp"
         android:background="@android:color/background_light"
         android:orientation="vertical"
+        android:weightSum="1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        android:layout_marginStart="0dp"
-        android:layout_marginEnd="0dp"
-        android:weightSum="1">
+        app:layout_constraintVertical_bias="0.0">
 
         <TableRow
             android:layout_width="match_parent"
@@ -185,9 +185,9 @@
 
         <ImageView
             android:id="@+id/imageView7"
-            android:layout_width="350dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
+            android:layout_width="339dp"
+            android:layout_height="19dp"
+            android:layout_marginLeft="16dp"
             app:srcCompat="@drawable/line2" />
 
         <LinearLayout
@@ -198,8 +198,9 @@
 
             <ImageView
                 android:id="@+id/imageView8"
-                android:layout_width="wrap_content"
+                android:layout_width="339dp"
                 android:layout_height="68dp"
+                android:layout_marginLeft="14dp"
                 android:scaleType="fitXY"
                 app:srcCompat="@drawable/dollar" />
 
@@ -209,6 +210,7 @@
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="125dp"
             android:text="Continue"
             android:textColor="@android:color/background_light"
             tools:textSize="15sp" />
